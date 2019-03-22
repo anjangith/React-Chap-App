@@ -1,0 +1,13 @@
+.send-message-form {
+  position: fixed;
+    bottom: 0;
+    margin-left: 270px;
+    width: 100%;
+
+}
+
+.input-for-form {
+  height: 32px;
+  width: 100%;
+
+}

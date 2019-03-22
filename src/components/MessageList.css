@@ -1,0 +1,18 @@
+.message-list {
+  height: 100vh;
+  background-color: #dfdfdf;
+}
+
+.join-room {
+  font-size: 70px;
+  text-align: center;
+}
+.message-text {
+  font-size: 20px;
+  background-color: antiquewhite;
+
+}
+
+.message-username {
+  font-size: 30px;
+}
